@@ -13,9 +13,6 @@ DO NOT USE FOR "WORKS" "VOLUNTEER" and "COMFORT"
 DO NOT USE IN NORMAL
 FOR ELIMINATE ANOMALY FUNCTION of UNIX MACHINES
 
-ONLY USE if-unix-boso-max.txt IN SACRIFICE
-INTENDED IN JAPAN
-
 緊急用スクリプト
 
 これはあなたがたのUNIXが暴走したと思われるときに使うものです
@@ -50,6 +47,3 @@ INTENDED IN JAPAN
 カスタマイズに失敗すると明後日の結果になります。
 カスタマイズに大成功してもそうなることがあります。
 
-if-unix-boso-max.txt は超危険なときに追加して使うものです。
-それ以外のシーンでは使ってはいけません。
-見ればわかりますがオタク全開で申し訳ない。
