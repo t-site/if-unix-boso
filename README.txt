@@ -48,3 +48,7 @@ FOR ELIMINATE ANOMALY FUNCTION of UNIX MACHINES
 カスタマイズに失敗すると明後日の結果になります。
 カスタマイズに大成功してもそうなることがあります。
 社会的に重要なマシンの場合、まれに何かがすでに入っていることがあります。
+
+悩んでいるなら、まず、level2.txtを導入してください。
+
+$ cat level2.txt >> moso.txt
