@@ -52,4 +52,4 @@ FOR ELIMINATE ANOMALY FUNCTION of UNIX MACHINES
 
 悩んでいるなら、まず、level2.txtを導入してください。
 
-$ cat level2.txt >> moso.txt
+$ cat level2.txt > moso.txt
